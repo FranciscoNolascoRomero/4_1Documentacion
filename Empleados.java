@@ -9,6 +9,8 @@ package ies;
 
 /**
  *  @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+ * @see <a href = "https://docs.oracle.com/javase/7/docs/api/" /> aprenderaprogramar.com – Didáctica en programación </a>
+ * @see #comprobar();
  */
 public class Empleado {
 	private int emp_no;
